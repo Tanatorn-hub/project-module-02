@@ -1,4 +1,4 @@
-import ninModule02 from'./nin-module02'
+import ninModule02 from'./nin-module02.js'
 
 console.log(ninModule02.data1);
 

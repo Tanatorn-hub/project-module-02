@@ -1,5 +1,5 @@
-import { sayHi } from "./nin-module03";
-import showWow,{data1} from "./nin-module03";
+import { sayHi } from "./nin-module03.js";
+import showWow,{data1} from "./nin-module03.js";
 
 showWow()
 console.log(data1);
